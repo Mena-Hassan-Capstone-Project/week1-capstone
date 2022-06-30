@@ -37,3 +37,9 @@ College can be an exciting but overwhelming experience at first. Moving to a new
 - As a college student, I want to try all the most popular places around my area.
 - As a college student, I want to eliminate the awkwardness of first meeting someone by having similar interests to talk about.
 - As a college student, I want to connect with other students on social media before arriving on campus.
+- As a college student, I want a safe way to make new friends.
+
+
+## Endpoints
+<img width="630" alt="Screen Shot 2022-06-30 at 2 48 12 PM" src="https://user-images.githubusercontent.com/34526502/176784560-92f2d1d0-fe37-41f0-a484-f3d9b61ad5db.png">
+
