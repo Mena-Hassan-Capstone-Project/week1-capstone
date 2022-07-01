@@ -44,8 +44,8 @@ College can be an exciting but overwhelming experience at first. Moving to a new
 <img width="630" alt="Screen Shot 2022-06-30 at 2 48 12 PM" src="https://user-images.githubusercontent.com/34526502/176784560-92f2d1d0-fe37-41f0-a484-f3d9b61ad5db.png">
 
 ## Data Models
-User:
+### User:
 <img width="569" alt="Screen Shot 2022-06-30 at 7 30 00 PM" src="https://user-images.githubusercontent.com/34526502/176812079-a8976078-05f1-4cd4-b595-45e0f682021c.png">
 
-Match:
+### Match:
 <img width="567" alt="Screen Shot 2022-06-30 at 7 30 19 PM" src="https://user-images.githubusercontent.com/34526502/176812126-563e6f04-711f-4baf-83c5-170bff56732b.png">
